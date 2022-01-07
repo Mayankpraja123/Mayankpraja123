@@ -1,4 +1,4 @@
-### Hi there 👋, My name is Mayank Prajapati
+###  My name is Mayank Prajapati
 #### Web developer, Web designer
 I am having a very interest in technology and electronic devices. How that electronic devices are designing, how they work very accurately, and how they are user-friendly. Have a lot of curiosities in my mind about technology. I have decided to make my career in science.
 I had complete my B.E. from LIT college Valsad in the Electronic and communication branch. In college, we do a little bit of coding but, that create a passion in me to learn computer programing. So I start learning some programming languages like C, Python, Javascript, Mysql.
@@ -9,9 +9,8 @@ I enjoy interacting with others fron the field of technology.You can take a look
 
 Skills:  REACT / JS / HTML / CSS
 
-- 🔭 I’m currently working on this page. 
+- 🔭 Check my portfolio and project https://github.com/masai-course/mayank_fw11_274 
 - 🌱 I’m currently learning React 
-- 👯 I’m looking to collaborate on github 
 - 💬 Ask me about Web development 
 - 📫 How to reach me: https://www.linkedin.com/in/mayank-prajapati-1000/ 
 
