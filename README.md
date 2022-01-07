@@ -13,11 +13,16 @@ Skills:  REACT / JS / HTML / CSS
 - 🌱 I’m currently learning React 
 - 💬 Ask me about Web development 
 - 📫 How to reach me: https://www.linkedin.com/in/mayank-prajapati-1000/ 
-
+- 
+## Connect with me on 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Mayankpraja123)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Mayankpraja123/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Mayankpraja123)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/Mayankpraja123/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Mayankpraja123)  
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Mayankpraja123)](https://github.com/ryo-ma/github-profile-trophy)
+
+## Language and Tools
+
+https://blog.wildix.com/wp-content/uploads/2020/06/react-logo.jpg
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mayankpraja123)](https://github.com/anuraghazra/github-readme-stats)
 
