@@ -21,7 +21,6 @@ Skills:  REACT / JS / HTML / CSS
 [![trophy](https://github-profile-trophy.vercel.app/?username=Mayankpraja123)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Language and Tools
-https://github.com/masai-course/mayank_fw11_274/blob/master/javascript_logo.png
 https://blog.wildix.com/wp-content/uploads/2020/06/react-logo.jpg
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mayankpraja123)](https://github.com/anuraghazra/github-readme-stats)
