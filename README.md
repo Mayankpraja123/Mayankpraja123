@@ -13,6 +13,9 @@ Skills:  REACT / JS / HTML / CSS
 - 🌱 I’m currently learning React 
 - 💬 Ask me about Web development 
 - 📫 How to reach me: https://www.linkedin.com/in/mayank-prajapati-1000/ 
+
+<img align="center" src="https://www.mygo.ge/uploads/blog/1584023795.jpg" alt="mayank" />
+
 - 
 ## Connect with me on 
 
