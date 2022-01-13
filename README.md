@@ -9,14 +9,13 @@ I enjoy interacting with others fron the field of technology.You can take a look
 
 Skills:  REACT / JS / HTML / CSS
 
-- 🔭 Check my portfolio and project https://github.com/masai-course/mayank_fw11_274 
-- 🌱 I’m currently learning React 
+- 🔭 Check my portfolio https://portfolio-mayankpraja123.vercel.app/ 
+- 🌱 I’m currently learning Web development
 - 💬 Ask me about Web development 
 - 📫 How to reach me: https://www.linkedin.com/in/mayank-prajapati-1000/ 
 
 <img align="center" src="https://www.mygo.ge/uploads/blog/1584023795.jpg" alt="mayank" />
 
-- 
 ## Connect with me on 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Mayankpraja123)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Mayankpraja123/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Mayankpraja123)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/Mayankpraja123/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Mayankpraja123)  
